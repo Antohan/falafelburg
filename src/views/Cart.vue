@@ -1,6 +1,7 @@
 <template>
   <div class="cart">
-    Cart
+    Список заказав.
+    <button>Заказать</button>
   </div>
 </template>
 
