@@ -17,7 +17,7 @@ export default {
 .header {
   position: relative;
   width: 100%;
-  height: 60px;
+  height: 10vh;
   box-shadow: 2px 2px 5px 0 rgba(0,0,0,.095);
   overflow: hidden;
   box-sizing: border-box;
@@ -31,7 +31,7 @@ export default {
 
 .logo {
   img {
-    height: 60px;
+    height: 10vh;
   }
 }
 </style>
